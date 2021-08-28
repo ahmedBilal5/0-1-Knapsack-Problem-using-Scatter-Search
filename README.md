@@ -4,6 +4,6 @@ Scatter Search is a evolutionary metahueristic similiar to the class of Algorith
 
 Scatter Search has problem dependant implementations. For my project, I implemeneted Scatter Search with Path Relinking for the 0/1 Knapsack problem, a well-known combinatorial optimization problem. The language I have used is C++.
 
-A detailed report is attatched explaining the workings of Scatter Search and Path Relinking as well the challenges in implementation. Finally, it contains a psuedo-code of the complete Algorithm consistent with the coded implementation. This report was written and compiled by me and 3 classmates whose names have been mentioned in the report.
+A detailed report (Report.docx) is attatched explaining the workings of Scatter Search and Path Relinking as well the challenges in implementation. Finally, it contains a psuedo-code of the complete Algorithm consistent with the coded implementation. This report was written and compiled by me and 3 classmates whose names have been mentioned in the report.
 
 

@@ -1,5 +1,4 @@
 # 0-1-Knapsack-Problem-using-Scatter-Search
-Approximating solutions to 0/1 Knapsack problem using Scatter Search, an evolutionary metaheuristic
 
 Scatter Search is a evolutionary metahueristic similiar to the class of Algorithms known as Genetic Algorithms. It is different to Genetic Algorithms in a few ways. For example, it uses a special and slightly sophisticated method for combining solutions instead of the traditional crossover operator used by Genetic Algorithms. This method is called the Progressive Crossover and uses a technique known as Path Relinking.
 
